@@ -1,0 +1,6 @@
+[submodule "axi4-interface"]
+	path = axi4-interface
+	url = ./axi4-interface
+[submodule "tvip-axi"]
+	path = tvip-axi
+	url = ./tvip-axi
