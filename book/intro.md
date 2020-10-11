@@ -1,7 +1,6 @@
 # Introduction
 
 ### Bus Boundary
-$128*16*2=4kb$
 ```mermaid
 graph LR
   A[AWValid] & D[WValid] --> B[AWReady] & E[WReady]
